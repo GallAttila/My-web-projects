@@ -4,17 +4,19 @@
 
 Here can be found my Native HTML and Sass web projects.
 
-## INSTALLATION
+## Installation
 
 - open project folder in terminal
 - run the following commands:
-  npm i
-  npm start
+  `npm i`
+  `npm start`
 
-## Cheat Sheet for git
+## Badges
 
-<image src="/cheat_sheet-1.jpg" >
-<image src="/cheat_sheet-2.jpg" >
+### Cheat Sheet for git
+
+  <image src="/cheat_sheet-1.jpg" >
+  <image src="/cheat_sheet-2.jpg" >
 
 ## Authors and acknowledgment
 
